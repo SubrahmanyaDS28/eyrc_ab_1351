@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim
+vtb
+Z1 !s110 1703938082
+!i10b 1
+!s100 7gQDP7<]:C3fYNJXL>0L81
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUNH@4O4`o@^j@Cn3X?[O<3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699880204
+8D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim/tb.v
+FD:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim/tb.v
+!i122 1
+L0 2 80
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1703938082.000000
+!s107 D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim|D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim/tb.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/simulation/modelsim
+Z7 tCvgOpt 0
+vuart_tx
+R1
+!i10b 1
+!s100 LP]TF]ce05[bO0JijDS]Y0
+R2
+I:=[R5`JJ[O;X1?^C^PT@J0
+R3
+R0
+w1703938039
+8D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/uart_tx.v
+FD:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/uart_tx.v
+!i122 0
+L0 25 116
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/uart_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx|D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx/uart_tx.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/my_eYRC/ab#1351_Task2A/t2a_uart/uart_tx
+R7

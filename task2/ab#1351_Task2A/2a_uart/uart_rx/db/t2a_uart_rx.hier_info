@@ -1,0 +1,13 @@
+|uart_rx
+clk_50M => ~NO_FANOUT~
+rx => ~NO_FANOUT~
+rx_msg[0] <= <GND>
+rx_msg[1] <= <GND>
+rx_msg[2] <= <GND>
+rx_msg[3] <= <GND>
+rx_msg[4] <= <GND>
+rx_msg[5] <= <GND>
+rx_msg[6] <= <GND>
+rx_msg[7] <= <GND>
+
+

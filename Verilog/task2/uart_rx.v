@@ -1,4 +1,4 @@
-// AstroTinker Bot : Task 2A : UART Receiver Subba bvc
+// AstroTinker Bot : Task 2A : UART Receiver Subba tejas
 /*
 Instructions
 -------------------
